@@ -1,2 +1,2 @@
 # Devops-Projects
-This is repo For Devops Project
+This repo is For Devops Project
